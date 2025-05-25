@@ -4,7 +4,7 @@ autoinstall:
     identity:
         realname: 'Laborátorio Teste'
         hostname: ubuntu-desktop
-        username: laboratorio teste
+        username: laboratorio
         password: '$y$j9T$uhkxlm8nUQaNu.6rl4k2d.$DIldpYy96OHg8lFjfXfc671BZcGWkPOmaDONGAhGSg3'
     locale: pt_BR.utf8
     keyboard:
@@ -14,6 +14,7 @@ autoinstall:
         - git
         - wget
         - neofetch
+        - htop
     codecs:
         install: true
     drivers:
