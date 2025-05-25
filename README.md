@@ -20,6 +20,8 @@ Durante o processo automatizado, as seguintes configurações serão aplicadas:
 
     Codecs multimídia: ✅ Instalados automaticamente
 
+    Bloatware: Totalmente Limpo ✅ 
+
 🛠️ Ferramentas pré-instaladas
 
 O sistema virá com os seguintes utilitários básicos já instalados:
