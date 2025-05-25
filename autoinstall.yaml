@@ -9,7 +9,7 @@ autoinstall:
     locale: pt_BR.utf8
     keyboard:
         layout: br
-    timezone: "America/Brasilia"   
+    timezone: "America/Recife"   
     packages:
         - git
         - wget
