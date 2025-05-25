@@ -8,7 +8,7 @@ Durante o processo automatizado, as seguintes configurações serão aplicadas:
 
     Nome da máquina: Laboratório Teste
 
-    Usuário: laboratorio teste
+    Usuário: laboratorio
 
     Senha: 123
 
@@ -29,6 +29,8 @@ O sistema virá com os seguintes utilitários básicos já instalados:
     wget ✅
 
     neofetch ✅
+    
+    htop ✅
 
 🙏 Créditos
 
