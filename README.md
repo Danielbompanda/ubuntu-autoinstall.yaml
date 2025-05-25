@@ -12,7 +12,7 @@ Durante o processo automatizado, as seguintes configurações serão aplicadas:
 
     Senha: 123
 
-    Fuso horário (Timezone): America/São_Paulo
+    Fuso horário (Timezone): America/Recife
 
     Localização (Locale): pt_BR.UTF-8
 
